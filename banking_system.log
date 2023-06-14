@@ -1,0 +1,17 @@
+INFO:root:Started
+WARNING:root:Account does not exist. Would you like to create a new account?
+
+INFO:root:Customer record created in Customer table
+INFO:root:Started
+INFO:root:Started
+INFO:root:Started
+INFO:root:You have successfully deposited 500 and your final balance is 500.0
+INFO:root:Started
+INFO:root:Started
+INFO:root:Please deposit more funds before withdrawal
+INFO:root:Finished!
+INFO:root:Started
+INFO:root:Please deposit more funds before withdrawal
+INFO:root:Started
+INFO:root:You have successfully withdrawn 200 and your final balance is 300.0
+INFO:root:Finished!
